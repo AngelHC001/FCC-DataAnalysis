@@ -9,3 +9,5 @@ Python Projects for Data Analysis Certification (FreeCode Camp)
 
 The challenge's are described thorugh the completion of the cert 
 https://www.freecodecamp.org/certification/angelhc/data-analysis-with-python-v7
+
+My honesty clause: i needed some help for understanding and completing challenges 3 & 4, nevertheless, its from my total interest to explore and learn this field for building up my Data-Science Profile 
