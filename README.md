@@ -5,8 +5,10 @@ https://www.freecodecamp.org/certification/angelhc/data-analysis-with-python-v7
 
 - **CHALLENGE 1 Mean-Variance-Standard Deviation Calculator**: Basic use of Python
 - **CHALLENGE 2: Demographic Data Analyzer**: Use of Pandas
-- **CHALLENGE 3: Medical Data Visualizer**: Data Handling and Visualization
+- **CHALLENGE 3: Medical Data Visualizer**: Data Handling and Visualization (Shows cardium and gluc levels of a group of people)
 - **CHALLENGE 4: FCC Views Time Series Visualizer**: Data Handling and Visualization
 - **CHALLENGE 5: Sea Level Predictor**: Data Visualization
+
+- FCC Screenshots.pdf show the results
 
 **My honesty clause**: i needed some help for understanding and completing challenges 3 & 4, nevertheless, its from my total interest to explore and learn this field for building up my Data-Science Profile 
